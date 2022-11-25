@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пр_13_Параллельное_программирование</string>
+    <string name="get_answer">Получить ответ</string>
+    <string name="answer">Ответ</string>
+    <string name="start_calculation">Запустить вычисления</string>
+    <string name="input_tip">Введите натуральное число от 1 до 13</string>
+</resources>

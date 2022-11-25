@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pr_13_Parallelnoe_programmirovanie</string>
+    <string name="get_answer">Get answer</string>
+    <string name="answer">Answer</string>
+    <string name="start_calculation">Start calculation</string>
+    <string name="input_tip">Input natural number from 1 to 13</string>
+</resources>
